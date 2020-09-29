@@ -17,7 +17,7 @@ public enum ExceptionEnum {
     /**
      * token失效
      */
-    TOKENINVALID_EXCEPTION(402,"token失效"),
+    TOKEN_INVALID_EXCEPTION(402,"token失效"),
     /**
      * 接口不存在
      */
